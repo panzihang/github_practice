@@ -1,2 +1,2 @@
 # github_practice
-Repo for github exercises.
+Repo for leetcode exercises.
